@@ -1,5 +1,2 @@
-const sum = require('./src/sum')
-const concat = require('./src/concat')
+const index = require('./app/index')
 
-console.log(` Sum is : ${sum} `);
-console.log(` Concated array is : ${concat} `);
